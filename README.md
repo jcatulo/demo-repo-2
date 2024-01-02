@@ -1,4 +1,4 @@
-# demo-github
+# demo-repo-2
 
 This is a Github demo
 
